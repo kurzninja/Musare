@@ -1272,6 +1272,7 @@ nav form input[type="image"]{
 }
 #doorbell-email {
     text-align: left;
+    color: #000000;
 }
 #search-playlist{
     outline: 0;
